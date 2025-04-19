@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kim-Myeong-Soo
-- 👀 I’m interested in ML/DL for Recommendation System
 - 🌱 I’m currently learning Industrial Management Engineering in POSTECH
 - 📫 How to reach me thingsu71@gmail.com
 - Hugging Face : https://huggingface.co/thingsu
